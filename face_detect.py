@@ -1,6 +1,6 @@
 import cv2 as cv 
 
-img = cv.imread("Photos/us.jpg")
+img = cv.imread("Photos/group 2.jpg")
 cv.imshow("Image", img)
 
 gray = cv.cvtColor(img, cv.COLOR_BGR2GRAY)
