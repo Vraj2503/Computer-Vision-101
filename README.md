@@ -46,7 +46,7 @@
 
 <pre><code>pip install opencv-python</code></pre>
 
-<pre><code>pip install jupyter (Optional)</code></pre>
+<pre><code>pip install jupyter</code></pre>
 
 <ol start="4">
   <li><strong>Clone the Repository</strong>: Clone or download the course repository from GitHub to access the code examples and Jupyter notebooks:</li>
