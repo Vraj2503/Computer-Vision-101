@@ -34,3 +34,20 @@
   <li>Understanding classification algorithms</li>
   <li>Building and training a simple image classifier</li>
 </ul>
+
+<h2>Installation</h2>
+
+<p>To follow along with the course materials and run the code examples, you'll need to set up your development environment. Here's how to get started:</p>
+
+<ol>
+  <li><strong>Install Python</strong>: Make sure you have Python installed on your system. You can download it from <a href="https://www.python.org/">python.org</a>.</li>
+  <li><strong>Install OpenCV</strong>: OpenCV can be installed via pip, a Python package manager. Run the following command in your terminal or command prompt:</li>
+</ol>
+
+<pre><code>pip install opencv-python</code></pre>
+
+<pre><code>pip install jupyter (Optional)</code></pre>
+
+<ol start="4">
+  <li><strong>Clone the Repository</strong>: Clone or download the course repository from GitHub to access the code examples and Jupyter notebooks:</li>
+</ol>
